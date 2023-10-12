@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tyson Mwangi.
 - 👀 I’m an ametuer programmer who is interested in Python.
-- 🌱 I’m currently learning Django and Flask. 
+- 🌱 I’m currently learning Django having already learned Flask. 
 - 💞️ I’m looking to collaborate on agricultural based projects such as Web apps and other Python based agricultural projects.
 - 📫 You can reach me on email: tjmwa94@gmail.com, Twitter: @tysonmwangi
 
