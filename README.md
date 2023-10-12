@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Tyson Mwangi
-- 👀 I’m interested in python
+- 👋 Hi, I’m @Tyson Mwangi.
+- 👀 I’m an ametuer programmer who is interested in python.
 - 🌱 I’m currently learning Django and Flask. 
 - 💞️ I’m looking to collaborate on agricultural based projects such as webb apps and other python based agricultural apps
 - 📫 You can reach me on email: tjmwa94@gmail.com, Twitter: @tysonmwangi
