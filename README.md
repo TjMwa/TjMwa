@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TjMwa
+- 👋 Hi, I’m @Tyson Mwangi
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Django and Flask. 
 - 💞️ I’m looking to collaborate on agricultural based projects such as webb apps and other python based agricultural apps
