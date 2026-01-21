@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tyson Mwangi.
-- 👀 I’m an programmer who is interested in Python and the frameworks buit upon it.
+- 👀 I’m an programmer who is interested in Python and its frameworks
 - 🌱 I’m currently learning Flask with a high interest in Django. 
 - 💞️ I’m looking to collaborate on python based projects.
-- ✨ I've also started learning frontend langauges eps js. I prefer react as it goes together with my UI/UX training. 
+- ✨ I'm also a Prduct designer with a fcus on both UI and UX.
 - 📫 You can reach me on email: tjmwa94@gmail.com, Twitter: @tysonmwangi
 
 <!---
