@@ -36,14 +36,13 @@ My name is Tyson Mwangi and I build functional web apps end-to-end — backend l
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 
- #### Integrations
-(https://img.shields.io/badge/M--Pesa-Daraja%20API-34B233?style=for-the-badge
-4
+ ### 🔗 Integrations
+
+https://img.shields.io/badge/M--Pesa-Daraja%20API-34B233?style=for-the-badge
 https://img.shields.io/badge/Microsoft-Graph-0078D4?style=for-the-badge&logo=microsoft
-5
 https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint
-6
-https://img.shields.io/badge/Power-Automate-0066FF?style=for-the-badge&logo=powerautomate)
+https://img.shields.io/badge/Power-Automate-0066FF?style=for-the-badge&logo=powerautomate
+
 
 ---
 
