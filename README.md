@@ -1,7 +1,7 @@
 
 ### About
 
-My name is Tyson Mwangi and I build functional web apps end-to-end — backend logic, frontend interfaces, and the product design that ties them together. My work centers on **AI automation**, **local market integrations** (M-Pesa Daraja), and clean, systemized UI/UX.
+My name is Tyson Mwangi and I build functional web apps end-to-end — backend logic, frontend interfaces, and the product design that ties them together. My work centers on **AI automation**, **low-code solutions**, and **product innovation**.
 
 - 🔭 Currently building across several entrepreneurial and client projects
 - 🌱 Learning and applying **Flask**, with growing interest in **Django**
@@ -12,18 +12,33 @@ My name is Tyson Mwangi and I build functional web apps end-to-end — backend l
 
 ### Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776or-the-badge&logo=python&logoColor=white  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the=fastapi&logoColor=white  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=foro=javascript&logoColor=black
-9
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DA
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+#### Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 | Layer | Tools |
 |---|---|
-| Backend | Python, Flask, Node.js |
-| Frontend | React, TypeScript |
-| Data | PostgreSQL, MySQL |
-| Design | Figma |
+| Backend | Python, FastAPI, Flask, Node.js |
+| Frontend | React, React Native, TypeScript |
 | Automation / AI | n8n, Ollama |
 | Integrations | M-Pesa Daraja API |
 
