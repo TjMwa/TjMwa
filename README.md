@@ -12,6 +12,12 @@ My name is Tyson Mwangi and I build functional web apps end-to-end — backend l
 
 ### Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776or-the-badge&logo=python&logoColor=white  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the=fastapi&logoColor=white  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=foro=javascript&logoColor=black
+9
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DA
+
+
 | Layer | Tools |
 |---|---|
 | Backend | Python, Flask, Node.js |
