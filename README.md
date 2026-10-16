@@ -22,6 +22,14 @@ My name is Tyson Mwangi and I build functional web apps end-to-end — backend l
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-delta-teal-69.vercel.app/api?username=Nyanumba&show_icons=true&theme=github_dark&hide_title=true)
+
+![Top Languages](https://github-readme-stats-delta-teal-69.vercel.app/api/top-langs?username=Nyanumba&layout=compact&theme=github_dark)
+
+
+
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
