@@ -24,9 +24,9 @@ My name is Tyson Mwangi and I build functional web apps end-to-end — backend l
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-delta-teal-69.vercel.app/api?username=Nyanumba&show_icons=true&theme=github_dark&hide_title=true)
+![GitHub Stats](https://github-readme-stats-delta-teal-69.vercel.app/api?username=TjMwa&show_icons=true&theme=github_dark&hide_title=true)
 
-![Top Languages](https://github-readme-stats-delta-teal-69.vercel.app/api/top-langs?username=Nyanumba&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-delta-teal-69.vercel.app/api/top-langs?username=TjMwa&layout=compact&theme=github_dark)
 
 
 
