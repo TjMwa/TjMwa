@@ -4,7 +4,7 @@
 My name is Tyson Mwangi and I build functional web apps end-to-end — backend logic, frontend interfaces, and the product design that ties them together. My work centers on **AI automation**, **low-code solutions**, and **product innovation**.
 
 - 🔭 Currently building across several entrepreneurial and client projects
-- 🌱 Learning and applying **Flask**, with growing interest in **Django**
+- 🌱 Currently Building using **React** and using reusable components in ongoing projects but also Learning and applying **Flask**, with growing interest in **Django**
 - 💞️ Open to collaborating on functional web apps and websites
 - 🎓 Certified in Product Design & Python Web Development
 
