@@ -3,10 +3,10 @@
 
 My name is Tyson Mwangi and I build functional web apps end-to-end — backend logic, frontend interfaces, and the product design that ties them together. My work centers on **AI automation**, **low-code solutions**, and **product innovation**.
 
-- 🔭 Currently building across several entrepreneurial and client projects
-- 🌱 Currently Building using **React** and **Node** in ongoing projects but also Learning and applying **Flask**, with growing interest in **Django**
-- 💞️ Open to collaborating on functional web apps and websites
-- 🎓 Certified in Product Design & Python Web Development
+- 🔭 Currently building across several entrepreneurial and client projects.
+- 🌱 Currently Building using **React** and **Node** in ongoing projects. I am well-versed in **Flask** with growing interest in **Django**.
+- 💞️ Open to collaborating on functional web apps and websites.
+- 🎓 Certified in Product Design & Python Web Development.
 
 ---
 
@@ -54,6 +54,7 @@ My name is Tyson Mwangi and I build functional web apps end-to-end — backend l
 ![Microsoft](https://img.shields.io/badge/Microsoft-Graph-0078D4?style=for-the-badge&logo=microsoft)
 ![MicrosoftSharepoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint)
 ![PowerAutomate](https://img.shields.io/badge/Power-Automate-0066FF?style=for-the-badge&logo=powerautomate)
+![PowerApp](https://img.shields.io/badge/Power-Apps-0066FF?style=for-the-badge&logo=powerapps)
 
 
 ---
