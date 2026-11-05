@@ -50,8 +50,6 @@ My name is Tyson Mwangi and I build functional web apps end-to-end — backend l
 
  ### 🔗 Integrations
 
-![M-Pesa](https://img.shields.io/badge/M--Pesa-Daraja%20API-34B233?style=for-the-badge)
-![Microsoft](https://img.shields.io/badge/Microsoft-Graph-0078D4?style=for-the-badge&logo=microsoft)
 ![MicrosoftSharepoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint)
 ![PowerAutomate](https://img.shields.io/badge/Power-Automate-0066FF?style=for-the-badge&logo=powerautomate)
 ![PowerApp](https://img.shields.io/badge/Power-Apps-0066FF?style=for-the-badge&logo=powerapps)
